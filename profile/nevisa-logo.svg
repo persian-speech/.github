@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="100%" height="100%">
+  <defs>
+    <!-- گرادیانت پس‌زمینه دایره -->
+    <linearGradient id="blue-gradient" x1="15%" y1="10%" x2="85%" y2="90%">
+      <stop offset="0%" stop-color="#184e93" />
+      <stop offset="100%" stop-color="#327acc" />
+    </linearGradient>
+  </defs>
+  
+  <!-- دایره اصلی -->
+  <circle cx="128" cy="128" r="128" fill="url(#blue-gradient)" />
+  
+  <!-- المان‌های سفید رنگ داخل لوگو -->
+  <g stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    
+    <!-- خط عمودی سمت چپ -->
+    <line x1="56" y1="80" x2="56" y2="176" />
+    
+    <!-- خط عمودی کوتاه میانی -->
+    <line x1="92" y1="104" x2="92" y2="152" />
+    
+    <!-- شکل اصلی سمت راست (شبیه به حرف E) -->
+    <!-- خط عمودی و خط افقی بالایی -->
+    <path d="M 128 176 L 128 80 L 200 80" />
+    
+    <!-- خط افقی میانی -->
+    <line x1="164" y1="128" x2="200" y2="128" />
+    
+    <!-- خط افقی پایینی -->
+    <line x1="164" y1="176" x2="200" y2="176" />
+    
+  </g>
+</svg>
