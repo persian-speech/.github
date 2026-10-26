@@ -1,5 +1,7 @@
 <div dir="rtl">
 
+<p align="center"><img src="nevisa-logo.svg" alt="نویسا" width="120"></p>
+
 # نویسا | تبدیل گفتار فارسی به متن
 
 **[persianspeech.com](https://persianspeech.com)**
