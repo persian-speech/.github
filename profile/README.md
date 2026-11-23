@@ -11,7 +11,7 @@
 | نویسا لایو | تبدیل زندهٔ گفتار و ورودی میکروفن به متن |
 | نویسا فایل | پیاده‌سازی فایل صوتی و ویدئویی، با زمان‌بندی و گزینهٔ تشخیص گوینده |
 | نویسا فیوژن | ترکیب مدل لایو و فایل برای تبدیل فایل و گفتار زنده |
-| آریانا نوا و آریانا آوا | تبدیل متن به گفتار با انتخاب گوینده‌های پیش‌فرض |
+| آریانا نوا، آریانا آوا و آریانا ندا | تبدیل متن به گفتار با انتخاب گوینده‌های پیش‌فرض و شبیه‌سازی صدا |
 | Bina | استخراج متن از تصویر و PDF |
 | مدل زبانی نویسا | گفت‌وگو، خلاصه‌سازی و پردازش متن |
 
@@ -19,7 +19,7 @@
 
 اپلیکیشن دسکتاپ، مدل‌های آفلاین و بسته‌های سازمانی از داخل پلتفرم عرضه می‌شوند. برای دریافت نسخهٔ مناسب، به بخش دانلود و برای مسائل حساب به پشتیبانی داخل برنامه مراجعه کنید.
 
-**پشتیبانی** ۰۲۱-۶۱۹۳۱۰۰۰
+**پشتیبانی** <span dir="ltr">۰۲۱-۶۱۹۳۱۱۱۲</span>
 
 </div>
 
@@ -28,7 +28,7 @@
 Nevisa by ASR Gooyesh Pardaz provides Persian speech and text services for web, desktop and enterprise deployments.
 
 - **Nevisa Live, File and Fusion** — live speech, audio/video transcription and optional model fusion.
-- **Ariana Nova and Ariana Ava** — text to speech with selectable preset speakers.
+- **Ariana Nava, Ariana Ava and Ariana Neda** — text to speech with selectable preset speakers and voice cloning.
 - **Bina** — image and PDF OCR.
 - **Nevisa language model** — chat and text processing through an OpenAI-compatible API.
 
